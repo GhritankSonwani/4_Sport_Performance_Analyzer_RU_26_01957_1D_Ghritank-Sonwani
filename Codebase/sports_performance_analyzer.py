@@ -3,7 +3,6 @@ import os
 import pandas as pd 
 import numpy as np
 import matplotlib.pyplot as plt
-2
 
 
 def load_and_clean_data(file_name):
